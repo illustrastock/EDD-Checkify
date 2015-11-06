@@ -1,0 +1,67 @@
+/* Misc  */
+#check_icon {
+  margin-top: 10px;
+  float: left;
+}
+
+#you_can_store_message {
+  clear: left;
+  padding-top: 10px;
+  margin-bottom: 10px;
+  display: block;
+  font-weight: bold;
+  
+}
+
+
+/* Main */
+
+#quality_tips_table {
+  margin-top: 20px;
+}
+
+#quality_tips_table input[type="text"] {
+  width: 750px;
+}
+
+
+#quality_tips_table input[type="text"] {
+  width: 750px;
+}
+
+#quality_tips_table th {
+    background-color: #eee;
+}
+
+#quality_tips_table th + th + th {
+    background-color: #fff;
+}
+
+#quality_tips_table td.blog_tip_col_default {
+  width: 50px;
+}
+
+#quality_tips_table td.blog_tip_col_default input[type="checkbox"] {
+  margin-left: 18px;
+}
+
+
+#good_writer_notes {
+  width: 700px;
+  height: 200px;
+}
+
+#random_notes {
+   font-weight: bold;
+   font-size: 12px;
+   
+   width: 100px;
+}
+
+#random_notes_2 {
+   font-weight: bold;
+   font-size: 12px;
+   margin-left: 300px;
+   width: 200px;
+}
+
