@@ -1,5 +1,7 @@
 # EDD-Checkify
  A Checklist tool that serves as your own "Download Entry Coach" 
+ 
+ A fork of Good Writer Chekify for Wordpress https://wordpress.org/plugins/good-writer-checkify/faq/
 
 
 === Easy Digital Download Checkify  ===
