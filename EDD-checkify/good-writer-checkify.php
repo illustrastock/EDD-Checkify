@@ -9,7 +9,7 @@ Author: Steve Bailey
 Author URI: http://illustrastock.com
 License: GPL
 
-Copyright 2015 Steve Bailey (email steveswdev@gmail.com) - illustrastock (email illustrastock@hotmail.com)
+Copyright 2015 S---- B----- (email ----------@gmail.com) - illustrastock (email illustrastock@hotmail.com)
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
