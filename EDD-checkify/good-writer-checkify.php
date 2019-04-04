@@ -5,7 +5,7 @@ Plugin URI: http://illustrastock.com
 Description: A Checklist tool that serves as your own "Download-Entry Mentor" in the form of a set of checkboxes extension for Easy Digital Download custom post.
 Version: 0.1
 Author: Colomet
-Author: Steve Bailey
+Author: S---- B-----
 Author URI: http://illustrastock.com
 License: GPL
 
